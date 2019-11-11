@@ -33,7 +33,6 @@ export default ExchangeTicker = (props) => {
 
 const styles = StyleSheet.create({
     tickerContainer:{
-        backgroundColor: 'transparent',
         borderColor: '#F41D78',
         borderRadius: 55,
         borderStyle: 'solid',
