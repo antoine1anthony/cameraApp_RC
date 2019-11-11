@@ -1,0 +1,5 @@
+export default sp500Types = {
+    SP_500_REQUEST: 'SP_500_REQUEST',
+	SP_500_SUCCESS: 'SP_500_SUCCESS',
+    SP_500_ERROR: 'SP_500_ERROR'
+};

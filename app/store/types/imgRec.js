@@ -1,0 +1,5 @@
+export default imgRecTypes = {
+    IMG_REC_REQUEST: 'IMG_REC_REQUEST',
+	IMG_REC_SUCCESS: 'IMG_REC_SUCCESS',
+    IMG_REC_ERROR: 'IMG_REC_ERROR'
+};
